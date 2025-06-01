@@ -1,2 +1,2 @@
-# tallkswapped
+# talkswapped
 Language community 
